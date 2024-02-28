@@ -1,0 +1,7 @@
+E:\C# project\Dot.net\AdO.net\bin\Debug\AdO.net.exe.config
+E:\C# project\Dot.net\AdO.net\bin\Debug\AdO.net.exe
+E:\C# project\Dot.net\AdO.net\bin\Debug\AdO.net.pdb
+E:\C# project\Dot.net\AdO.net\obj\Debug\AdO.net.csproj.AssemblyReference.cache
+E:\C# project\Dot.net\AdO.net\obj\Debug\AdO.net.csproj.CoreCompileInputs.cache
+E:\C# project\Dot.net\AdO.net\obj\Debug\AdO.net.exe
+E:\C# project\Dot.net\AdO.net\obj\Debug\AdO.net.pdb
