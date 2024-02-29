@@ -1,0 +1,7 @@
+E:\C# project\Dot.net\DOT.NET_28\bin\Debug\DOT.NET_28.exe.config
+E:\C# project\Dot.net\DOT.NET_28\bin\Debug\DOT.NET_28.exe
+E:\C# project\Dot.net\DOT.NET_28\bin\Debug\DOT.NET_28.pdb
+E:\C# project\Dot.net\DOT.NET_28\obj\Debug\DOT.NET_28.csproj.AssemblyReference.cache
+E:\C# project\Dot.net\DOT.NET_28\obj\Debug\DOT.NET_28.csproj.CoreCompileInputs.cache
+E:\C# project\Dot.net\DOT.NET_28\obj\Debug\DOT.NET_28.exe
+E:\C# project\Dot.net\DOT.NET_28\obj\Debug\DOT.NET_28.pdb
