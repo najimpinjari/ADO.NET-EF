@@ -1,0 +1,7 @@
+E:\C# project\Dot.net\taskfeb16\bin\Debug\taskfeb16.exe.config
+E:\C# project\Dot.net\taskfeb16\bin\Debug\taskfeb16.exe
+E:\C# project\Dot.net\taskfeb16\bin\Debug\taskfeb16.pdb
+E:\C# project\Dot.net\taskfeb16\obj\Debug\taskfeb16.csproj.AssemblyReference.cache
+E:\C# project\Dot.net\taskfeb16\obj\Debug\taskfeb16.csproj.CoreCompileInputs.cache
+E:\C# project\Dot.net\taskfeb16\obj\Debug\taskfeb16.exe
+E:\C# project\Dot.net\taskfeb16\obj\Debug\taskfeb16.pdb
