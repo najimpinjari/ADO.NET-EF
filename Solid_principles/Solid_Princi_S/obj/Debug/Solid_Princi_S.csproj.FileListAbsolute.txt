@@ -1,0 +1,7 @@
+E:\C# project\EF_code_first_task_1\Solid_Princi_S\bin\Debug\Solid_Princi_S.exe.config
+E:\C# project\EF_code_first_task_1\Solid_Princi_S\bin\Debug\Solid_Princi_S.exe
+E:\C# project\EF_code_first_task_1\Solid_Princi_S\bin\Debug\Solid_Princi_S.pdb
+E:\C# project\EF_code_first_task_1\Solid_Princi_S\obj\Debug\Solid_Princi_S.csproj.AssemblyReference.cache
+E:\C# project\EF_code_first_task_1\Solid_Princi_S\obj\Debug\Solid_Princi_S.csproj.CoreCompileInputs.cache
+E:\C# project\EF_code_first_task_1\Solid_Princi_S\obj\Debug\Solid_Princi_S.exe
+E:\C# project\EF_code_first_task_1\Solid_Princi_S\obj\Debug\Solid_Princi_S.pdb
