@@ -1,0 +1,7 @@
+E:\C# project\EF_code_first_task_1\Solic_Princ_I\bin\Debug\Solic_Princ_I.exe.config
+E:\C# project\EF_code_first_task_1\Solic_Princ_I\bin\Debug\Solic_Princ_I.exe
+E:\C# project\EF_code_first_task_1\Solic_Princ_I\bin\Debug\Solic_Princ_I.pdb
+E:\C# project\EF_code_first_task_1\Solic_Princ_I\obj\Debug\Solic_Princ_I.csproj.AssemblyReference.cache
+E:\C# project\EF_code_first_task_1\Solic_Princ_I\obj\Debug\Solic_Princ_I.csproj.CoreCompileInputs.cache
+E:\C# project\EF_code_first_task_1\Solic_Princ_I\obj\Debug\Solic_Princ_I.exe
+E:\C# project\EF_code_first_task_1\Solic_Princ_I\obj\Debug\Solic_Princ_I.pdb
