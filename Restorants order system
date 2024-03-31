@@ -1,0 +1,62 @@
+
+
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Initialize menu items
+        List<MenuItem> menu = new List<MenuItem>
+        {
+            new MenuItem { Id = 1, Name = "Burger", Description = "Classic Beef Burger", Price = 10.99m },
+            new MenuItem { Id = 2, Name = "Pizza", Description = "Margherita Pizza", Price = 12.50m },
+            // Add more menu items as needed
+        };
+
+        // Initialize order
+        Order order = new Order();
+
+        // Display menu
+        Console.WriteLine("Welcome to the Restaurant Order System!");
+        Console.WriteLine("Menu:");
+        foreach (MenuItem item in menu)
+        {
+            Console.WriteLine($"{item.Id}. {item.Name} - {item.Description} - ${item.Price}");
+        }
+
+        // Order loop
+        while (true)
+        {
+            Console.WriteLine("\nEnter the ID of the item you'd like to order (or '0' to finish): ");
+            int itemId = Convert.ToInt32(Console.ReadLine());
+
+            if (itemId == 0)
+            {
+                // Finish order
+                break;
+            }
+
+            MenuItem chosenItem = menu.FirstOrDefault(item => item.Id == itemId);
+            if (chosenItem != null)
+            {
+                order.Items.Add(chosenItem);
+                order.Total += chosenItem.Price;
+                Console.WriteLine($"{chosenItem.Name} added to order.");
+            }
+            else
+            {
+                Console.WriteLine("Invalid item ID. Please try again.");
+            }
+        }
+
+        // Display order summary
+        Console.WriteLine("\nOrder Summary:");
+        foreach (MenuItem item in order.Items)
+        {
+            Console.WriteLine($"{item.Name} - ${item.Price}");
+        }
+        Console.WriteLine($"Total: ${order.Total}");
+
+        Console.WriteLine("\nThank you for your order!");
+    }
+}
